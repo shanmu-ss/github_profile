@@ -8,6 +8,28 @@
 - 🌐 Working on DevOps and Automation
 - 💅 Contributing open source project
 
+# Currently Learning🎯
+👉 Devops and Automation
+
+👉 Cloud Platform - Google Cloud Console , Amazon Web Services and Microsoft Azure 
+
+👉 Internet of Things,
+
+👉 Image Processing
+
+# Skills🥇
+
+## Languages
+> Python, Bash, SQL, Arduino, HTML, C/C++, Javascript
+
+## OS
+> Linux, Windows
+
+# Looking to Collaborate on 👯
+I’m looking to collaborate on Almost anything related to DevOps and Automation. Always looking for great opportunities and Ideas.  
+
+
+
 ##### BIO
 
 - 🏢 I'm currently Mechatronics Engineering at **KCET TAMIL NADU**
@@ -16,3 +38,5 @@
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **Cloud**, **Development**, **FiveM**, **Networking**, **IT Support**, **Automation**
 - 📫 Reach me: [Linkedin.com/shanmuga-perumal](https://www.linkedin.com/in/shanmuga-perumal-b67b00155/)
+
+<a href="mailto:shanmugasp.023@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png" alt="shanmugasp.023@gmail.com" height="25" width="35" /> [Email](mailto:shanmugasp.023@gmail.com)
