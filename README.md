@@ -14,4 +14,4 @@
 - 🌍 I'm mostly active within the **INSTAGRAM**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **Cloud**, **Development**, **FiveM**, **Networking**, **IT Support**, **Automation**
-- 📫 Reach me: [Linkedin.com/shanmuga-perumal]https://www.linkedin.com/in/shanmuga-perumal-b67b00155/)
+- 📫 Reach me: [Linkedin.com/shanmuga-perumal](https://www.linkedin.com/in/shanmuga-perumal-b67b00155/)
