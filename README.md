@@ -39,6 +39,9 @@ I’m looking to collaborate on Almost anything related to DevOps and Automation
 - 💬 Ping me about **Cloud**, **Development**, **FiveM**, **Networking**, **IT Support**, **Automation**
 - 📫 Reach me: [Linkedin.com/shanmuga-perumal](https://www.linkedin.com/in/shanmuga-perumal-b67b00155/)
 
-<a href="https://www.linkedin.com/in/shanmuga-perumal-b67b00155/" target="blank"><img align="left" src="https://1000logos.net/wp-content/uploads/2017/03/Color-of-the-LinkedIn-Logo.jpg" alt="shanmuga-perumal-b67b00155" height="25" width="35" /> [LinkedIn](https://www.linkedin.com/in/shanmuga-perumal-b67b00155/)
+## CONTACT ME
+
+<a href="https://www.linkedin.com/in/shanmuga-perumal-b67b00155/" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2017/03/Symbol-LinkedIn.jpg"
+alt="shanmuga-perumal-b67b00155" height="25" width="35" /> [LinkedIn](https://www.linkedin.com/in/shanmuga-perumal-b67b00155/)
 
 <a href="mailto:shanmugasp.023@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png" alt="shanmugasp.023@gmail.com" height="25" width="35" /> [Email](mailto:shanmugasp.023@gmail.com)
