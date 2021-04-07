@@ -45,3 +45,6 @@ I’m looking to collaborate on Almost anything related to DevOps and Automation
 alt="shanmuga-perumal-b67b00155" height="25" width="35" /> [LinkedIn](https://www.linkedin.com/in/shanmuga-perumal-b67b00155/)
 
 <a href="mailto:shanmugasp.023@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png" alt="shanmugasp.023@gmail.com" height="25" width="35" /> [Email](mailto:shanmugasp.023@gmail.com)
+  
+  
+  [![Spotify](https://shanmu-github-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/7e7nyhl8s3yp0h148tlkldeg2)
