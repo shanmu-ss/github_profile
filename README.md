@@ -41,7 +41,7 @@ I’m looking to collaborate on Almost anything related to DevOps and Automation
 
 ## CONTACT ME
 
-<a href="https://www.linkedin.com/in/shanmuga-perumal-b67b00155/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Flinkedin%2F71150&psig=AOvVaw1pmWgSpgI7vqmrM34bP-Wb&ust=1623785709363000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjs7qTvl_ECFQAAAAAdAAAAABAj"
+<a href="https://www.linkedin.com/in/shanmuga-perumal-b67b00155/" target="blank"><img align="center" src="https://ibb.co/qyDT8QM"
 alt="shanmugaperumal" height="25" width="35" /> [LinkedIn](https://www.linkedin.com/in/shanmuga-perumal-b67b00155/)
 
 <a href="mailto:shanmugasp.023@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png" alt="shanmugasp.023@gmail.com" height="25" width="35" /> [Email](mailto:shanmugasp.023@gmail.com)
