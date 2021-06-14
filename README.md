@@ -42,9 +42,11 @@ I’m looking to collaborate on Almost anything related to DevOps and Automation
 ## CONTACT ME
 
 <a href="https://www.linkedin.com/in/shanmuga-perumal-b67b00155/" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621896715~hmac=307852d3bb9527eb71db9b58398bc18a"
-alt="shanmuga-perumal-b67b00155" height="25" width="35" /> [LinkedIn](https://www.linkedin.com/in/shanmuga-perumal-b67b00155/)
+alt="shanmugaperumal" height="25" width="35" /> [LinkedIn](https://www.linkedin.com/in/shanmuga-perumal-b67b00155/)
 
 <a href="mailto:shanmugasp.023@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-logo.png" alt="shanmugasp.023@gmail.com" height="25" width="35" /> [Email](mailto:shanmugasp.023@gmail.com)
   
+  <a href=" https://www.credly.com/badges/fa601f2b-eff2-4237-8b3b-565fae441bc4/public_url" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png"
+alt="Microsoft Azure Fundamental" height="25" width="35" /> [LinkedIn]( https://www.credly.com/badges/fa601f2b-eff2-4237-8b3b-565fae441bc4/public_url)
   
   [![Spotify](https://shanmu-github-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/7e7nyhl8s3yp0h148tlkldeg2)
