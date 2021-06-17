@@ -5,6 +5,7 @@
 
 ##### NOW
 
+- 💼 Technical Associate Intern
 - 🌐 Working on DevOps and Automation
 - 💅 Contributing open source project
 
