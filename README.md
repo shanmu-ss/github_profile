@@ -44,7 +44,7 @@ I’m looking to collaborate on Almost anything related to DevOps and Automation
 - 🌍 I'm mostly active within the **INSTAGRAM**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **Cloud**, **Development**, **FiveM**, **Networking**, **IT Support**, **Automation**
-- 📫 Reach me: [Linkedin](https://www.linkedin.com/in/shanmuga-perumal-b67b00155/)
+- 📫 Reach me: [Linkedin](https://www.linkedin.com/in/bs5/)
 
 ## CONTACT ME
 
