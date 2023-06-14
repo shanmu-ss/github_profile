@@ -1,7 +1,7 @@
 ### Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-#### I'm a Student living in Tamil Nadu, India.
+#### I'm a Software Engineer living in Tamil Nadu, India.
 
 ##### NOW
 
@@ -39,7 +39,7 @@ I’m looking to collaborate on Almost anything related to DevOps and Automation
 
 # BIO
 
-- 🏢 I'm currently Mechatronics Engineering at **KCET TAMIL NADU**
+- 🏢 I'm currently Software Engieer working at **Tech Mahindra**
 - ⚙️ I'm daily working on: `.DevOps`, `.python`, `.MySql`, `.Networking`, `.IoT`, `.VPS`
 - 🌍 I'm mostly active within the **INSTAGRAM**
 - 🌱 Learning all about **Open Source**
